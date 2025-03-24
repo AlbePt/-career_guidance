@@ -4,3 +4,4 @@
 # 2. Исключения (нужные файлы, которые не игнорируем)
 !.gitignore
 !app.py
+!requirements.txt
